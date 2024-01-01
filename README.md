@@ -4,6 +4,7 @@
 -->
 
 - 💻 I’m currently working at Fusion Medical Staffing - a healthcare staffing recruitment platform and marketplace
-- 🏥 Previously a registered nurse - always looking to collaborate on interesting health tech related applications
+- ⏰ Co-creator of ZusTime - the first time travel debugger and component hierarchy visualizer for Zustand applications
+- 🏥 Previously a registered nurse - always looking to collaborate on interesting health tech-related software
 - 📫 How to reach me: kels.graner@gmail.com  /  https://www.linkedin.com/in/kelseygraner/
 
